@@ -4,10 +4,27 @@
   "main": "lib/index.js",
   "types": "./types/index.d.ts",
   "license": "MIT",
+  "author": "ziyu_jia",
+  "homepage": "https://github.com/jiatingyu/toolkit.git#readme",
+  "repository": "https://github.com/jiatingyu/toolkit.git",
+  "keywords": [
+    "javaScipt",
+    "typeScipt",
+    "toolkit",
+    "前端",
+    "工具函数"
+  ],
+  "bugs": {
+    "url": "https://github.com/jiatingyu/toolkit/issues"
+  },
   "scripts": {
+    "dev": "tsc --watch",
     "build": "tsc"
   },
   "devDependencies": {
     "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.11"
   }
 }
