@@ -14,9 +14,9 @@
 ```js
 npm i @ziyus/toolkit
 // or
-yarn i @ziyus/toolkit
+yarn add @ziyus/toolkit
 // or
-pnpm i @ziyus/toolkit
+pnpm install @ziyus/toolkit
 ```
 
 ## 使用方法：
